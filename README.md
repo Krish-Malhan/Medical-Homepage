@@ -1,2 +1,2 @@
 # Medical-Homepage
-HOME page for medical servises
+HOME page for medical registrations.
